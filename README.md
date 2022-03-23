@@ -4,6 +4,8 @@ A replacement game boy camera sensor board that adds a TP223 for toggling leds(f
 
 Please note that no ready to use flash solution is currently available, so you have to make your own, the module outputs 5V.
 
+A piece of copper tape and a wire can be used as a touch sensor.
+
 
 [![Purchase on PCBWay](/assets/purchase-on-pcbway.png)](https://www.pcbway.com/project/shareproject/Game_Boy_Camera_replacement_sensor_board_with_flash_toggle_c9f8312a.html)
 
