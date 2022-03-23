@@ -25,6 +25,4 @@ If you want to support me for free (and get 5 USD in new user credit) you can us
 | C2 | 0603 Capcaitor | Harvest C2 from donor sensor board |
 | C3 | 0603 0-50pF Capcaitor | Optional lowers touch sensitivity |
 
-
-
 ![](/assets/assembly.jpg)
